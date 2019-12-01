@@ -9,7 +9,7 @@ int main(void) {
 }
 
 void function(void) {
-    std::cout << "Hello world" << std::endl;
+    std::cout << "Hello Mike" << std::endl;
 
     return;
 }
